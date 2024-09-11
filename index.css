@@ -1,1 +1,6 @@
-.header a {}
+.header a {display: flex;
+    font-family: Arial;}
+
+.header {display: flex;
+    background-color: blueviolet;
+}

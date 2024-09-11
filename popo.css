@@ -1,0 +1,30 @@
+header a {display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+font-size: 21px, 400 ;
+}
+
+header {display: flex;
+    background-color: #5E1858;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    color: aliceblue;
+    align-items: center;
+}
+header h1 {display: flex;
+margin-left: 2%;
+font-size: 26px, 700 ;
+margin-left: 10%;}
+.o {display: flex;
+margin-left: 50%;}
+
+.ch {display: flex;
+    margin-left: 1%;}
+
+.f {display: flex;
+        margin-left: 1%;
+    margin-right: 10%;}
+
+.foto1 img {display: flex;
+margin-top: 3%;
+justify-content: left;}
